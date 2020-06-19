@@ -1,0 +1,16 @@
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\obj\Debug\PhotoMonitoring.csprojAssemblyReference.cache
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\obj\Debug\View\MainWindow.g.cs
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\obj\Debug\App.g.cs
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\obj\Debug\PhotoMonitoring_MarkupCompile.cache
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\obj\Debug\PhotoMonitoring_MarkupCompile.lref
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\bin\Debug\PhotoMonitoring.exe
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\bin\Debug\PhotoMonitoring.pdb
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\obj\Debug\View\MainWindow.baml
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\obj\Debug\PhotoMonitoring.g.resources
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\obj\Debug\PhotoMonitoring.Properties.Resources.resources
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\obj\Debug\PhotoMonitoring.csproj.GenerateResource.cache
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\obj\Debug\PhotoMonitoring.csproj.CopyComplete
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\obj\Debug\PhotoMonitoring.exe
+C:\Users\zhukv\source\repos\HTS\PhotoMonitoring\obj\Debug\PhotoMonitoring.pdb
